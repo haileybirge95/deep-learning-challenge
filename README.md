@@ -11,7 +11,7 @@ The purpose of this tool and the insights it provides is to predict which applic
 - Compiling, Training, and Evaluating the Model
   - A combination of numbers of neurons and layers were evaluated for this model, ultimately it appears that neither adding neurons or additional hidden layers improved accuracy over the original model.
   - I was not able to acheive target model performance.
-  - To improve model performance, I added and reduced neurons and epochs and added a third hidden layer. None were effective.
+  - In my attempts to improve model performance, I added and reduced neurons and epochs and added a third hidden layer. None were effective.
  
   ## Summary
   Overall, the original model was not improved upon in terms of accuracy. It is possible that a different model altering the activation functions could increase accuracy by utilizing a different gradient, which would change how weights are analyzed. 
